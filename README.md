@@ -19,4 +19,5 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a></p>
-<img src="https://img.shields.io/badge/JavaS-F7DF1E?style=flat-square&logo=Java&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/Java-9966ff?style=flat-square&logo=Java&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Python-00ff99?style=flat-square&logo=Python&logoColor=white"/></a>
