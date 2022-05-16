@@ -21,3 +21,4 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Amazon AWS-0066ff?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Java-4700b3?style=flat-square&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-a366ff?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Linux-000000?style=flat-square&logo=Linux&logoColor=white"/></a>
