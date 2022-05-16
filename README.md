@@ -16,10 +16,11 @@ Here are some ideas to get you started:
 -->
 <img src="https://img.shields.io/badge/HTML5-ff0000?style=flat-square&logo=HTML5&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Jquery-ffccff?style=flat-square&logo=Jquery&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/CSS3-ff6600?style=flat-square&logo=CSS3&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/CSS3-ff6600?style=flat-square&logo=CSS3&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C-ffff66?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/JavaScript-66ff66?style=flat-square&logo=JavaScript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Amazon AWS-0066ff?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Google GCP-8585e0?style=flat-square&logo=Google GCP&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Java-4700b3?style=flat-square&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-a366ff?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Linux-000000?style=flat-square&logo=Linux&logoColor=white"/></a>
