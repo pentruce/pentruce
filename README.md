@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://img.shields.io/badge/HTML5-ff0000?style=flat-square&logo=HTML5&logoColor=white"/></a> #빨
+<img src="https://img.shields.io/badge/HTML5-ff0000?style=flat-square&logo=HTML5&logoColor=white"/></a> ##빨
 <img src="https://img.shields.io/badge/CSS3-ff6600?style=flat-square&logo=CSS3&logoColor=white"/></a> #주
 <img src="https://img.shields.io/badge/C-ffff66?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> #노
 <img src="https://img.shields.io/badge/JavaScript-66ff66?style=flat-square&logo=JavaScript&logoColor=white"/></a>
